@@ -1,5 +1,12 @@
 # Employee Salary Analysis (EDA)
 
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
+
 ## 📊 Objective
 Analyze salary trends across different factors.
 
